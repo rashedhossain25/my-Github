@@ -1,4 +1,3 @@
-Code:
 {
   // editor
   "editor.fontSize": 20,
@@ -74,8 +73,6 @@ Code:
 }
 
 
-
-Extension:
 Andromeda-Eliver Lara
 Auto Close Tag-Jun Han
 Auto Import-steoates
@@ -94,4 +91,3 @@ Path Autocomplete-Mihai Vilcu
 Prettier - Code formatter-Prettier
 Turbo Console Log-Anas Chakroun
 vscode-icons-VSCode Icons Team
-
